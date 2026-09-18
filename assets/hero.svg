@@ -1,46 +1,55 @@
-<svg width="1100" height="430" viewBox="0 0 1100 430" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1100" height="430" fill="#FFFFFF"/>
-  <g opacity="0.9" stroke="#111111" stroke-width="1.3">
-    <path d="M80 330H1020"/>
-    <path d="M120 110H980"/>
-    <path d="M170 90V340"/>
-    <path d="M930 90V340"/>
-    <path d="M90 250H1010"/>
-    <path d="M240 90V340"/>
-    <path d="M860 90V340"/>
-    <path d="M520 80V350"/>
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" fill="#0d1117"/>
+  <g opacity="0.18" stroke="#30363d" stroke-width="1">
+    <path d="M80 70H1120"/>
+    <path d="M80 160H1120"/>
+    <path d="M80 250H1120"/>
+    <path d="M120 40V320"/>
+    <path d="M260 40V320"/>
+    <path d="M400 40V320"/>
+    <path d="M540 40V320"/>
+    <path d="M680 40V320"/>
+    <path d="M820 40V320"/>
+    <path d="M960 40V320"/>
+    <path d="M1100 40V320"/>
   </g>
-  <g fill="#111111">
-    <circle cx="200" cy="250" r="6"/>
-    <circle cx="520" cy="250" r="6"/>
-    <circle cx="840" cy="250" r="6"/>
-    <circle cx="520" cy="130" r="6"/>
-    <circle cx="520" cy="370" r="6"/>
+
+  <g opacity="0.9" stroke="#58A6FF" stroke-width="2">
+    <path d="M170 250L330 200L530 220L700 145L880 190L1035 120"/>
+    <path d="M330 200V275"/>
+    <path d="M530 220V290"/>
+    <path d="M700 145V225"/>
+    <path d="M880 190V270"/>
   </g>
-  <g stroke="#111111" stroke-width="2">
-    <path d="M200 250H520V130"/>
-    <path d="M520 250H840"/>
-    <path d="M520 250V370"/>
-    <path d="M520 250L680 170"/>
-    <path d="M520 250L680 322"/>
+
+  <g stroke="#8B949E" stroke-width="1.5" opacity="0.85">
+    <path d="M170 250H330"/>
+    <path d="M330 200H530"/>
+    <path d="M530 220H700"/>
+    <path d="M700 145H880"/>
+    <path d="M880 190H1035"/>
   </g>
-  <g fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">
-    <text x="120" y="212">APPLICATION</text>
-    <text x="620" y="208">SYSTEM</text>
-    <text x="885" y="212">AI</text>
-    <text x="490" y="105">01</text>
-    <text x="490" y="395">03</text>
+
+  <g fill="#58A6FF">
+    <circle cx="170" cy="250" r="5"/>
+    <circle cx="330" cy="200" r="5"/>
+    <circle cx="530" cy="220" r="5"/>
+    <circle cx="700" cy="145" r="5"/>
+    <circle cx="880" cy="190" r="5"/>
+    <circle cx="1035" cy="120" r="5"/>
   </g>
-  <g fill="#111111" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="26" letter-spacing="4">
-    <text x="150" y="150">P</text>
-    <text x="930" y="150">A</text>
-    <text x="150" y="330">D</text>
-    <text x="930" y="330">I</text>
+
+  <g fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="3">
+    <text x="110" y="292">USER</text>
+    <text x="285" y="285">FRONTEND</text>
+    <text x="500" y="305">API</text>
+    <text x="650" y="255">BACKEND</text>
+    <text x="838" y="295">DATA</text>
+    <text x="990" y="162">AI</text>
   </g>
-  <g opacity="0.6" stroke="#111111" stroke-width="1.2">
-    <path d="M180 70L252 70"/>
-    <path d="M848 70L920 70"/>
-    <path d="M180 360L252 360"/>
-    <path d="M848 360L920 360"/>
+
+  <g fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2.5">
+    <text x="980" y="92">LLM</text>
+    <text x="145" y="90">SYSTEM</text>
   </g>
 </svg>

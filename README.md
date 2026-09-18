@@ -1,194 +1,109 @@
 # PAVAN KARTHIKEYA
 
-<div align="center" style="padding: 12px 0 8px;">
-  <div style="display:inline-block; padding: 14px 18px; border: 1px solid rgba(0,0,0,0.75); border-radius: 999px; background: rgba(255,255,255,0.78); box-shadow: 0 0 24px rgba(0,0,0,0.08);">
-    <strong style="letter-spacing: 0.22em; font-size: 11px;">FULL-STACK ENGINEER</strong>
-  </div>
-  <p style="margin: 18px 0 8px; font-size: 26px; letter-spacing: 0.14em; text-shadow: 0 0 18px rgba(0,0,0,0.12);"><strong>BACKEND · SYSTEM DESIGN · AI</strong></p>
-  <p style="margin: 0 0 16px; color: #1f1f1f; font-style: italic;">Building reliable applications and exploring intelligent systems.</p>
-  <p><a href="https://github.com/Pavankarthikeya08">GitHub</a> · <a href="https://linkedin.com/in/rt-pavan-karthikeya">LinkedIn</a> · <a href="mailto:rtpavankarthikeya@gmail.com">Email</a></p>
+<div align="center" style="padding: 18px 0 16px; color: #f0f6fc;">
+  <div style="display:inline-block; padding: 8px 14px; border: 1px solid #30363d; border-radius: 999px; background: rgba(88,166,255,0.08); color: #58a6ff; letter-spacing: 0.2em; font-size: 10px; font-weight: 700;">FULL-STACK DEVELOPER</div>
+  <p style="margin: 18px 0 8px; font-size: 26px; line-height: 1.2; letter-spacing: 0.12em; color: #f0f6fc; font-weight: 700;">BACKEND · SYSTEM DESIGN · AI</p>
+  <p style="margin: 0 0 14px; color: #8b949e;">Building reliable applications and exploring intelligent systems.</p>
+  <p>
+    <a href="https://github.com/Pavankarthikeya08" style="color: #58a6ff;">GitHub</a> ·
+    <a href="https://linkedin.com/in/rt-pavan-karthikeya" style="color: #58a6ff;">LinkedIn</a> ·
+    <a href="mailto:rtpavankarthikeya@gmail.com" style="color: #58a6ff;">Email</a>
+  </p>
 </div>
 
-<hr>
+<img src="assets/hero.svg" alt="System architecture hero graphic" width="100%">
 
-## ABOUT
+<img src="assets/divider.svg" alt="section divider" width="100%">
 
-Pavan is a Full-Stack Developer focused on MERN, backend engineering, system design and AI integration.
+## 01 / ABOUT
 
-He builds complete applications across frontend, APIs and databases, while exploring how LLMs can become useful parts of real-world systems.
+Full-stack developer focused on building complete applications across React, Node.js, APIs and databases. Interested in backend architecture and the practical use of AI, especially LLM applications, RAG and agentic workflows. Currently going deeper into system design and scalable backend engineering.
 
-Currently exploring RAG, LLM applications, agentic AI and scalable backend systems.
+## 02 / CURRENTLY LEARNING
 
-<div align="center" style="margin: 18px auto 6px; padding: 8px 12px; border: 1px solid rgba(0,0,0,0.6); display: inline-block; border-radius: 999px; background: #f8f8f8; box-shadow: 0 0 12px rgba(0,0,0,0.06);">BUILD → BREAK → UNDERSTAND → REBUILD</div>
-
-## ENGINEERING FOCUS
-
-<div style="display:grid; grid-template-columns: repeat(4, minmax(160px, 1fr)); gap: 14px; margin: 18px 0 24px;">
-  <div style="padding: 16px 14px; border: 1px solid rgba(0,0,0,0.7); border-radius: 14px; background: linear-gradient(180deg, #ffffff, #f5f5f5); box-shadow: 0 0 18px rgba(0,0,0,0.04); min-height: 120px;">
-    <div style="font-size: 10px; letter-spacing: 0.2em; color: #404040; margin-bottom: 10px;">01 / APPLICATIONS</div>
-    <div style="font-weight: bold; font-size: 14px; margin-bottom: 6px;">MERN</div>
-    <div style="font-size: 12px; line-height: 1.6; color: #333;">React · REST APIs · UI systems</div>
+<div style="display:grid; grid-template-columns: repeat(2, minmax(220px, 1fr)); gap: 14px; margin: 18px 0 24px;">
+  <div style="padding: 16px 14px; border: 1px solid #30363d; border-radius: 14px; background: rgba(13,17,23,0.9); box-shadow: 0 0 18px rgba(88,166,255,0.06);">
+    <div style="font-size: 10px; letter-spacing: 0.18em; color: #58a6ff; margin-bottom: 10px;">01</div>
+    <div style="font-weight: 700; font-size: 14px; color: #f0f6fc; margin-bottom: 6px;">SYSTEM DESIGN</div>
+    <div style="font-size: 12px; color: #8b949e; line-height: 1.6;">Architecture · APIs · Scalability</div>
   </div>
-  <div style="padding: 16px 14px; border: 1px solid rgba(0,0,0,0.7); border-radius: 14px; background: linear-gradient(180deg, #ffffff, #f5f5f5); box-shadow: 0 0 18px rgba(0,0,0,0.04); min-height: 120px;">
-    <div style="font-size: 10px; letter-spacing: 0.2em; color: #404040; margin-bottom: 10px;">02 / SYSTEMS</div>
-    <div style="font-weight: bold; font-size: 14px; margin-bottom: 6px;">ARCHITECTURE</div>
-    <div style="font-size: 12px; line-height: 1.6; color: #333;">Backend · Databases · Scalability</div>
+  <div style="padding: 16px 14px; border: 1px solid #30363d; border-radius: 14px; background: rgba(13,17,23,0.9); box-shadow: 0 0 18px rgba(88,166,255,0.06);">
+    <div style="font-size: 10px; letter-spacing: 0.18em; color: #58a6ff; margin-bottom: 10px;">02</div>
+    <div style="font-weight: 700; font-size: 14px; color: #f0f6fc; margin-bottom: 6px;">AI APPLICATIONS</div>
+    <div style="font-size: 12px; color: #8b949e; line-height: 1.6;">LLMs · RAG · Agentic AI</div>
   </div>
-  <div style="padding: 16px 14px; border: 1px solid rgba(0,0,0,0.7); border-radius: 14px; background: linear-gradient(180deg, #ffffff, #f5f5f5); box-shadow: 0 0 18px rgba(0,0,0,0.04); min-height: 120px;">
-    <div style="font-size: 10px; letter-spacing: 0.2em; color: #404040; margin-bottom: 10px;">03 / INTELLIGENCE</div>
-    <div style="font-weight: bold; font-size: 14px; margin-bottom: 6px;">LLM SYSTEMS</div>
-    <div style="font-size: 12px; line-height: 1.6; color: #333;">Gemini · RAG · Agentic AI</div>
+  <div style="padding: 16px 14px; border: 1px solid #30363d; border-radius: 14px; background: rgba(13,17,23,0.9); box-shadow: 0 0 18px rgba(88,166,255,0.06);">
+    <div style="font-size: 10px; letter-spacing: 0.18em; color: #58a6ff; margin-bottom: 10px;">03</div>
+    <div style="font-weight: 700; font-size: 14px; color: #f0f6fc; margin-bottom: 6px;">BACKEND</div>
+    <div style="font-size: 12px; color: #8b949e; line-height: 1.6;">Node · Express · Databases</div>
   </div>
-  <div style="padding: 16px 14px; border: 1px solid rgba(0,0,0,0.7); border-radius: 14px; background: linear-gradient(180deg, #ffffff, #f5f5f5); box-shadow: 0 0 18px rgba(0,0,0,0.04); min-height: 120px;">
-    <div style="font-size: 10px; letter-spacing: 0.2em; color: #404040; margin-bottom: 10px;">04 / FOUNDATIONS</div>
-    <div style="font-weight: bold; font-size: 14px; margin-bottom: 6px;">CORE CS</div>
-    <div style="font-size: 12px; line-height: 1.6; color: #333;">DSA · OOP · DBMS · OS · Networks</div>
-  </div>
-</div>
-
-## FEATURED BUILDS
-
-<div style="display:grid; gap: 18px; margin: 18px 0 24px;">
-  <div style="padding: 18px 18px 16px; border: 1px solid rgba(0,0,0,0.8); border-radius: 18px; background: linear-gradient(180deg, #ffffff, #f3f3f3); box-shadow: 0 0 24px rgba(0,0,0,0.06);">
-    <div style="display:flex; justify-content:space-between; align-items:center; gap:12px; flex-wrap:wrap; margin-bottom: 10px;">
-      <div>
-        <div style="font-size: 10px; letter-spacing: 0.18em; color: #525252;">PROJECT 01</div>
-        <div style="font-size: 26px; font-weight: 700; letter-spacing: 0.03em; margin-top: 4px;">QueryAI</div>
-      </div>
-      <div style="display:flex; flex-wrap:wrap; gap:8px; justify-content:flex-end;">
-        <span style="display:inline-block; padding: 5px 10px; border:1px solid rgba(0,0,0,0.75); border-radius:999px; background:#f9f9f9; font-size:11px;">React</span>
-        <span style="display:inline-block; padding: 5px 10px; border:1px solid rgba(0,0,0,0.75); border-radius:999px; background:#f9f9f9; font-size:11px;">Node</span>
-        <span style="display:inline-block; padding: 5px 10px; border:1px solid rgba(0,0,0,0.75); border-radius:999px; background:#f9f9f9; font-size:11px;">Gemini</span>
-      </div>
-    </div>
-    <p style="margin: 0 0 8px; font-weight: 600; color: #111;">AI-powered natural-language database assistant.</p>
-    <p style="margin: 0 0 10px; color: #333;">95% query-generation accuracy through multi-scenario testing, with 5+ real-time dashboards and a 60% reduction in database interaction time.</p>
-  </div>
-
-  <div style="padding: 18px 18px 16px; border: 1px solid rgba(0,0,0,0.8); border-radius: 18px; background: linear-gradient(180deg, #ffffff, #f3f3f3); box-shadow: 0 0 24px rgba(0,0,0,0.06);">
-    <div style="display:flex; justify-content:space-between; align-items:center; gap:12px; flex-wrap:wrap; margin-bottom: 10px;">
-      <div>
-        <div style="font-size: 10px; letter-spacing: 0.18em; color: #525252;">PROJECT 02</div>
-        <div style="font-size: 26px; font-weight: 700; letter-spacing: 0.03em; margin-top: 4px;">Vexa</div>
-      </div>
-      <div style="display:flex; flex-wrap:wrap; gap:8px; justify-content:flex-end;">
-        <span style="display:inline-block; padding: 5px 10px; border:1px solid rgba(0,0,0,0.75); border-radius:999px; background:#f9f9f9; font-size:11px;">MongoDB</span>
-        <span style="display:inline-block; padding: 5px 10px; border:1px solid rgba(0,0,0,0.75); border-radius:999px; background:#f9f9f9; font-size:11px;">Express</span>
-        <span style="display:inline-block; padding: 5px 10px; border:1px solid rgba(0,0,0,0.75); border-radius:999px; background:#f9f9f9; font-size:11px;">RBAC</span>
-      </div>
-    </div>
-    <p style="margin: 0 0 8px; font-weight: 600; color: #111;">MERN project-management platform.</p>
-    <p style="margin: 0 0 10px; color: #333;">Task tracking, milestone workflows, automated email notifications, and API testing with Postman in a full-stack delivery workflow.</p>
-  </div>
-
-  <div style="padding: 18px 18px 16px; border: 1px solid rgba(0,0,0,0.8); border-radius: 18px; background: linear-gradient(180deg, #ffffff, #f3f3f3); box-shadow: 0 0 24px rgba(0,0,0,0.06);">
-    <div style="display:flex; justify-content:space-between; align-items:center; gap:12px; flex-wrap:wrap; margin-bottom: 10px;">
-      <div>
-        <div style="font-size: 10px; letter-spacing: 0.18em; color: #525252;">PROJECT 03</div>
-        <div style="font-size: 26px; font-weight: 700; letter-spacing: 0.03em; margin-top: 4px;">AnyShare</div>
-      </div>
-      <div style="display:flex; flex-wrap:wrap; gap:8px; justify-content:flex-end;">
-        <span style="display:inline-block; padding: 5px 10px; border:1px solid rgba(0,0,0,0.75); border-radius:999px; background:#f9f9f9; font-size:11px;">Node</span>
-        <span style="display:inline-block; padding: 5px 10px; border:1px solid rgba(0,0,0,0.75); border-radius:999px; background:#f9f9f9; font-size:11px;">Cloudinary</span>
-        <span style="display:inline-block; padding: 5px 10px; border:1px solid rgba(0,0,0,0.75); border-radius:999px; background:#f9f9f9; font-size:11px;">Multer</span>
-      </div>
-    </div>
-    <p style="margin: 0 0 8px; font-weight: 600; color: #111;">Secure file-sharing platform.</p>
-    <p style="margin: 0 0 10px; color: #333;">Unique download IDs, cloud storage, upload/download workflows, and validation of invalid requests at a scale of 100+ users.</p>
+  <div style="padding: 16px 14px; border: 1px solid #30363d; border-radius: 14px; background: rgba(13,17,23,0.9); box-shadow: 0 0 18px rgba(88,166,255,0.06);">
+    <div style="font-size: 10px; letter-spacing: 0.18em; color: #58a6ff; margin-bottom: 10px;">04</div>
+    <div style="font-weight: 700; font-size: 14px; color: #f0f6fc; margin-bottom: 6px;">ENGINEERING</div>
+    <div style="font-size: 12px; color: #8b949e; line-height: 1.6;">DSA · DBMS · Core CS</div>
   </div>
 </div>
 
-## STACK
+<img src="assets/architecture.svg" alt="System architecture diagram" width="100%">
 
-<div style="display:grid; grid-template-columns: repeat(4, minmax(150px, 1fr)); gap: 12px; margin: 18px 0 24px;">
-  <div style="padding: 12px; border: 1px solid rgba(0,0,0,0.8); border-radius: 12px; background: #fff; box-shadow: 0 0 16px rgba(0,0,0,0.04);">
-    <div style="font-size: 10px; letter-spacing: 0.18em; color: #666; margin-bottom: 10px;">LANGUAGES</div>
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">C++</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">Java</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">Python</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">JS</span>
-    </div>
-  </div>
-  <div style="padding: 12px; border: 1px solid rgba(0,0,0,0.8); border-radius: 12px; background: #fff; box-shadow: 0 0 16px rgba(0,0,0,0.04);">
-    <div style="font-size: 10px; letter-spacing: 0.18em; color: #666; margin-bottom: 10px;">FRONTEND</div>
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">React</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">HTML</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">CSS</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">MUI</span>
-    </div>
-  </div>
-  <div style="padding: 12px; border: 1px solid rgba(0,0,0,0.8); border-radius: 12px; background: #fff; box-shadow: 0 0 16px rgba(0,0,0,0.04);">
-    <div style="font-size: 10px; letter-spacing: 0.18em; color: #666; margin-bottom: 10px;">BACKEND</div>
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">Node</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">Express</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">REST</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">Postman</span>
-    </div>
-  </div>
-  <div style="padding: 12px; border: 1px solid rgba(0,0,0,0.8); border-radius: 12px; background: #fff; box-shadow: 0 0 16px rgba(0,0,0,0.04);">
-    <div style="font-size: 10px; letter-spacing: 0.18em; color: #666; margin-bottom: 10px;">DATA</div>
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">MongoDB</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">MySQL</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">SQLite</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">Oracle</span>
-    </div>
-  </div>
-  <div style="padding: 12px; border: 1px solid rgba(0,0,0,0.8); border-radius: 12px; background: #fff; box-shadow: 0 0 16px rgba(0,0,0,0.04);">
-    <div style="font-size: 10px; letter-spacing: 0.18em; color: #666; margin-bottom: 10px;">AI</div>
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">Gemini</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">LLMs</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">RAG</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">Agents</span>
-    </div>
-  </div>
-  <div style="padding: 12px; border: 1px solid rgba(0,0,0,0.8); border-radius: 12px; background: #fff; box-shadow: 0 0 16px rgba(0,0,0,0.04);">
-    <div style="font-size: 10px; letter-spacing: 0.18em; color: #666; margin-bottom: 10px;">SYSTEMS</div>
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">API</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">Scale</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">Cache</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">Async</span>
-    </div>
-  </div>
-  <div style="padding: 12px; border: 1px solid rgba(0,0,0,0.8); border-radius: 12px; background: #fff; box-shadow: 0 0 16px rgba(0,0,0,0.04);">
-    <div style="font-size: 10px; letter-spacing: 0.18em; color: #666; margin-bottom: 10px;">CORE CS</div>
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">DSA</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">OOP</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">DBMS</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">OS</span>
-    </div>
-  </div>
-  <div style="padding: 12px; border: 1px solid rgba(0,0,0,0.8); border-radius: 12px; background: #fff; box-shadow: 0 0 16px rgba(0,0,0,0.04);">
-    <div style="font-size: 10px; letter-spacing: 0.18em; color: #666; margin-bottom: 10px;">TOOLS</div>
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">AWS</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">Git</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">GitHub</span>
-      <span style="display:inline-block; padding: 6px 8px; border:1px solid rgba(0,0,0,0.7); border-radius:8px; font-size:11px; background:#f7f7f7;">VS Code</span>
-    </div>
-  </div>
-</div>
+## 03 / PROJECTS
 
-## CURRENTLY EXPLORING
+<table>
+  <tr>
+    <td valign="top" style="padding: 16px 14px; border: 1px solid #30363d; border-radius: 14px; background: rgba(13,17,23,0.9); width: 33%;">
+      <div style="font-size: 10px; letter-spacing: 0.18em; color: #58a6ff; margin-bottom: 10px;">01 / QUERYAI</div>
+      <div style="font-size: 24px; font-weight: 700; color: #f0f6fc; margin-bottom: 8px;">QueryAI</div>
+      <div style="font-size: 12px; color: #8b949e; line-height: 1.7; margin-bottom: 10px;">AI-powered natural-language database assistant.</div>
+      <div style="font-size: 11px; color: #8b949e; margin-bottom: 8px;">React · Node · Express · SQLite · MySQL · Gemini</div>
+      <div style="font-size: 12px; color: #58a6ff; font-weight: 600;">95% query-generation accuracy</div>
+      <div style="font-size: 12px; color: #8b949e; margin-top: 6px;">5+ interactive dashboards</div>
+    </td>
+    <td valign="top" style="padding: 16px 14px; border: 1px solid #30363d; border-radius: 14px; background: rgba(13,17,23,0.9); width: 34%;">
+      <div style="font-size: 10px; letter-spacing: 0.18em; color: #58a6ff; margin-bottom: 10px;">02 / VEXA</div>
+      <div style="font-size: 24px; font-weight: 700; color: #f0f6fc; margin-bottom: 8px;">Vexa</div>
+      <div style="font-size: 12px; color: #8b949e; line-height: 1.7; margin-bottom: 10px;">MERN project-management platform.</div>
+      <div style="font-size: 11px; color: #8b949e; margin-bottom: 8px;">React · Node · Express · MongoDB</div>
+      <div style="font-size: 12px; color: #8b949e;">Task tracking · RBAC · Milestones · Email workflows</div>
+    </td>
+    <td valign="top" style="padding: 16px 14px; border: 1px solid #30363d; border-radius: 14px; background: rgba(13,17,23,0.9); width: 33%;">
+      <div style="font-size: 10px; letter-spacing: 0.18em; color: #58a6ff; margin-bottom: 10px;">03 / ANYSHARE</div>
+      <div style="font-size: 24px; font-weight: 700; color: #f0f6fc; margin-bottom: 8px;">AnyShare</div>
+      <div style="font-size: 12px; color: #8b949e; line-height: 1.7; margin-bottom: 10px;">Secure file-sharing platform.</div>
+      <div style="font-size: 11px; color: #8b949e; margin-bottom: 8px;">Node · Express · MongoDB · Cloudinary · Multer</div>
+      <div style="font-size: 12px; color: #58a6ff; font-weight: 600;">100+ users</div>
+      <div style="font-size: 12px; color: #8b949e; margin-top: 6px;">Unique download IDs · Cloud storage</div>
+    </td>
+  </tr>
+</table>
 
-<div style="display:flex; flex-wrap:wrap; gap:10px; margin: 18px 0 20px;">
-  <span style="display:inline-block; padding: 8px 12px; border:1px solid rgba(0,0,0,0.8); border-radius: 999px; background:#f7f7f7; box-shadow: 0 0 12px rgba(0,0,0,0.04);">RAG</span>
-  <span style="display:inline-block; padding: 8px 12px; border:1px solid rgba(0,0,0,0.8); border-radius: 999px; background:#f7f7f7; box-shadow: 0 0 12px rgba(0,0,0,0.04);">LLM APPLICATIONS</span>
-  <span style="display:inline-block; padding: 8px 12px; border:1px solid rgba(0,0,0,0.8); border-radius: 999px; background:#f7f7f7; box-shadow: 0 0 12px rgba(0,0,0,0.04);">AGENTIC AI</span>
-  <span style="display:inline-block; padding: 8px 12px; border:1px solid rgba(0,0,0,0.8); border-radius: 999px; background:#f7f7f7; box-shadow: 0 0 12px rgba(0,0,0,0.04);">SCALABLE BACKENDS</span>
-  <span style="display:inline-block; padding: 8px 12px; border:1px solid rgba(0,0,0,0.8); border-radius: 999px; background:#f7f7f7; box-shadow: 0 0 12px rgba(0,0,0,0.04);">SYSTEM DESIGN</span>
-</div>
+## 04 / STACK
 
-## CONNECT
+### LANGUAGES
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" alt="Programming languages" width="320" height="32" />
 
-<div align="center" style="padding: 18px 0 8px;">
-  <p style="font-size: 28px; letter-spacing: 0.12em; margin: 0 0 12px;">LET'S BUILD.</p>
-  <p><a href="https://github.com/Pavankarthikeya08">GitHub</a> · <a href="https://linkedin.com/in/rt-pavan-karthikeya">LinkedIn</a> · <a href="mailto:rtpavankarthikeya@gmail.com">Email</a></p>
+### FRONTEND
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui" alt="Frontend technologies" width="420" height="32" />
+
+### BACKEND
+<img src="https://skillicons.dev/icons?i=nodejs,express,postman" alt="Backend technologies" width="250" height="32" />
+
+### DATA
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,oracle" alt="Database technologies" width="300" height="32" />
+
+### AI / GENAI
+Gemini API · LLM Applications · Prompt Engineering · RAG · Agentic AI
+
+### TOOLS
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="Tools and cloud technologies" width="260" height="32" />
+
+## 05 / CONNECT
+
+<div align="center" style="padding: 18px 0 8px; color: #f0f6fc;">
+  <p style="margin: 0 0 12px; font-size: 28px; letter-spacing: 0.12em; color: #f0f6fc; font-weight: 700;">LET'S BUILD.</p>
+  <p>
+    <a href="https://github.com/Pavankarthikeya08" style="color: #58a6ff;">GitHub</a> ·
+    <a href="https://linkedin.com/in/rt-pavan-karthikeya" style="color: #58a6ff;">LinkedIn</a> ·
+    <a href="mailto:rtpavankarthikeya@gmail.com" style="color: #58a6ff;">Email</a>
+  </p>
 </div>
 
