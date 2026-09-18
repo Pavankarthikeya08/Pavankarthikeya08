@@ -41,39 +41,39 @@ I build complete products end to end, from the backend and APIs to the data laye
 
 ## Featured Projects
 
-<a href="https://github.com/Pavankarthikeya08/QueryAI"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Pavankarthikeya08&repo=QueryAI&theme=transparent&hide_border=true&title_color=1E65F5&text_color=6b7280&icon_color=8A2BE2&card_width=300" alt="QueryAI" /></a>
-<a href="https://github.com/Pavankarthikeya08/Vexa"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Pavankarthikeya08&repo=Vexa&theme=transparent&hide_border=true&title_color=1E65F5&text_color=6b7280&icon_color=8A2BE2&card_width=300" alt="Vexa" /></a>
-<a href="https://github.com/Pavankarthikeya08/AnyShare"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Pavankarthikeya08&repo=AnyShare&theme=transparent&hide_border=true&title_color=1E65F5&text_color=6b7280&icon_color=8A2BE2&card_width=300" alt="AnyShare" /></a>
-
-<br />
-
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| **QueryAI** | Natural-language database assistant for query generation and interactive dashboards. | `React` `Node.js` `Express` `SQLite` `MySQL` `Gemini` |
-| **Vexa** | Project-management platform with task tracking, RBAC, milestones, and workflows. | `React` `Node.js` `Express` `MongoDB` |
-| **AnyShare** | Secure file-sharing app for uploads, sharing, and cloud delivery. | `Node.js` `Express` `MongoDB` `Cloudinary` `Multer` |
-
-## Architecture
-
-<p align="center">
-  <img src="./assets/architecture.svg" alt="System architecture" width="850" />
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>QueryAI</h3>
+      <p>Natural-language database assistant for query generation and interactive dashboards.</p>
+      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>SQLite</code> <code>MySQL</code> <code>Gemini</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Vexa</h3>
+      <p>Project-management platform with task tracking, RBAC, milestones, and workflows.</p>
+      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AnyShare</h3>
+      <p>Secure file-sharing app for uploads, sharing, and cloud delivery.</p>
+      <p><code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Cloudinary</code> <code>Multer</code></p>
+    </td>
+  </tr>
+</table>
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pavankarthikeya08&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=1E65F5&text_color=6b7280&icon_color=8A2BE2" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pavankarthikeya08&theme=transparent&hide_border=true&layout=compact&langs_count=8&title_color=1E65F5&text_color=6b7280" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Pavankarthikeya08&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="170" alt="GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pavankarthikeya08&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pavankarthikeya08&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
+    <img height="170" alt="Top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pavankarthikeya08&theme=default&hide_border=true&layout=compact&langs_count=8" />
+  </picture>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavankarthikeya08&theme=transparent&hide_border=true&background=00000000&ring=1E65F5&fire=8A2BE2&currStreakLabel=1E65F5&sideLabels=6b7280&currStreakNum=6b7280&sideNums=6b7280&dates=8b949e" alt="GitHub streak" />
 </p>
-
-## Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=Pavankarthikeya08&theme=oldie&row=1&column=6&margin-w=15&no-bg=true&no-frame=true" alt="GitHub trophies" /></a>
-</p>
-
-![](https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:f4f4f7,100:e6e7ee)
