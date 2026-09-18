@@ -1,13 +1,13 @@
 # PAVAN KARTHIKEYA
 
 <div align="center">
-  <img src="assets/hero.svg" alt="Pavan Karthikeya engineering system illustration" width="1000">
-  <p><strong>FULL-STACK DEVELOPER</strong><br><strong>BACKEND · SYSTEM DESIGN · AI</strong></p>
+  <p><strong>FULL-STACK DEVELOPER</strong><br>
+  <span style="text-shadow: 0 0 18px rgba(0,0,0,0.28); letter-spacing: 0.12em;">BACKEND · SYSTEM DESIGN · AI</span></p>
   <p><em>Building reliable applications and exploring intelligent systems.</em></p>
   <p><a href="https://github.com/Pavankarthikeya08">GitHub</a> · <a href="https://linkedin.com/in/rt-pavan-karthikeya">LinkedIn</a> · <a href="mailto:rtpavankarthikeya@gmail.com">Email</a></p>
 </div>
 
-<img src="assets/divider.svg" alt="divider" width="100%">
+<hr>
 
 ## ABOUT
 
@@ -29,8 +29,6 @@ BUILD → BREAK → UNDERSTAND → REBUILD
     <td width="25%"><strong>04 / FOUNDATIONS</strong><br>DSA · OOP · DBMS · OS · Networks</td>
   </tr>
 </table>
-
-<img src="assets/architecture.svg" alt="system architecture diagram" width="1000">
 
 ## SELECTED WORK
 
