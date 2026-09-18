@@ -4,50 +4,85 @@ Full-stack developer building complete products across backend, APIs, and data s
 
 ## CURRENTLY LEARNING
 
-- System design and API architecture
-- LLM apps, RAG, and agent workflows
-- Backend engineering with Node.js and databases
-- Core engineering fundamentals
+- **System Design** · API architecture · scalability
+- **AI Applications** · LLMs · RAG · agent workflows
+- **Backend Engineering** · Node.js · databases
+- **Core Engineering** · DSA · DBMS · problem-solving
 
 ## PROJECTS
 
-- QueryAI — Natural-language database assistant with dashboards and query generation. Technologies: React, Node.js, Express, SQLite, MySQL, Gemini.
-- Vexa — Project-management platform with tasks, RBAC, milestones, and workflows. Technologies: React, Node.js, Express, MongoDB.
-- AnyShare — Secure file-sharing app with uploads, sharing, and delivery. Technologies: Node.js, Express, MongoDB, Cloudinary, Multer.
+### QueryAI
+
+Natural-language database assistant for query generation and interactive dashboards.
+
+`React` · `Node.js` · `Express` · `SQLite` · `MySQL` · `Gemini`
+
+### Vexa
+
+Project-management platform with task tracking, RBAC, milestones, and workflows.
+
+`React` · `Node.js` · `Express` · `MongoDB`
+
+### AnyShare
+
+Secure file-sharing application for uploads, sharing, and cloud delivery.
+
+`Node.js` · `Express` · `MongoDB` · `Cloudinary` · `Multer`
 
 ## TECH STACK
 
 ### LANGUAGES
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" alt="Programming languages" width="320" height="32" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" height="48" alt="C++, Java, Python, JavaScript" />
 </p>
 
 ### FRONTEND
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui" alt="Frontend technologies" width="430" height="32" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui" height="48" alt="React, HTML, CSS, Tailwind, Bootstrap, Material UI" />
 </p>
 
 ### BACKEND
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postman" alt="Backend technologies" width="250" height="32" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postman" height="48" alt="Node.js, Express, Postman" />
 </p>
 
 ### DATABASES
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,oracle" alt="Database technologies" width="320" height="32" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,oracle" height="48" alt="MongoDB, MySQL, SQLite, Oracle" />
 </p>
 
 ### AI / GENAI
-<p align="center" style="margin: 0; color: #8b949e; letter-spacing: 0.08em; font-size: 12px;">LLM APPLICATIONS · RAG · PROMPT ENGINEERING · AGENTIC AI</p>
 
-### TOOLS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="Tools and cloud technologies" width="260" height="32" />
+  <sub>LLM APPLICATIONS</sub>
+  &nbsp; · &nbsp;
+  <sub>RAG</sub>
+  &nbsp; · &nbsp;
+  <sub>PROMPT ENGINEERING</sub>
+  &nbsp; · &nbsp;
+  <sub>AGENTIC AI</sub>
 </p>
 
-<img src="./assets/architecture.svg" alt="System architecture diagram" width="900" height="220" style="display:block; margin: 22px auto 0;" />
+### TOOLS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" height="48" alt="AWS, Git, GitHub, VS Code" />
+</p>
+
+<p align="center">
+  <img src="./assets/architecture.svg" alt="System architecture" width="850" />
+</p>
 
 ## CONNECT
 
-[GitHub](https://github.com/Pavankarthikeya08) · [LinkedIn](https://linkedin.com/in/rt-pavan-karthikeya) · [Email](mailto:rtpavankarthikeya@gmail.com)
-
+<p align="center">
+  <a href="https://github.com/Pavankarthikeya08">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/rt-pavan-karthikeya">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:rtpavanarthikeya@gmail.com">Email</a>
+</p>
