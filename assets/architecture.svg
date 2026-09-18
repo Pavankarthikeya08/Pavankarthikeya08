@@ -1,65 +1,48 @@
-<svg width="1200" height="410" viewBox="0 0 1200 410" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="410" fill="#0d1117"/>
-
-  <g opacity="0.16" stroke="#30363d" stroke-width="1">
-    <path d="M90 40V330"/>
-    <path d="M220 40V330"/>
-    <path d="M350 40V330"/>
-    <path d="M480 40V330"/>
-    <path d="M610 40V330"/>
-    <path d="M740 40V330"/>
-    <path d="M870 40V330"/>
-    <path d="M1000 40V330"/>
-    <path d="M1110 40V330"/>
+<svg width="900" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="220" fill="#0d1117"/>
+  <g opacity="0.13" stroke="#30363d" stroke-width="1">
+    <path d="M80 30V190"/>
+    <path d="M220 30V190"/>
+    <path d="M360 30V190"/>
+    <path d="M500 30V190"/>
+    <path d="M640 30V190"/>
+    <path d="M780 30V190"/>
   </g>
 
-  <g stroke="#58A6FF" stroke-width="2" opacity="0.9">
-    <path d="M120 210H230"/>
-    <path d="M230 210L338 210"/>
-    <path d="M338 210V130H450"/>
-    <path d="M338 210V290H450"/>
-    <path d="M450 210H560"/>
-    <path d="M560 210V130H680"/>
-    <path d="M560 210V290H680"/>
-    <path d="M680 210H790"/>
-    <path d="M790 210V130H900"/>
-    <path d="M790 210V290H900"/>
-    <path d="M900 210H1020"/>
-    <path d="M1020 210L1080 210"/>
+  <g stroke="#8B949E" stroke-width="1.5" opacity="0.9">
+    <path d="M110 120H220"/>
+    <path d="M220 120H360"/>
+    <path d="M360 120H500"/>
+    <path d="M500 120H640"/>
+    <path d="M640 120H780"/>
+  </g>
+
+  <g stroke="#58A6FF" stroke-width="2.2" opacity="0.9">
+    <path d="M500 120L560 70"/>
+    <path d="M500 120L560 170"/>
+  </g>
+
+  <g fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">
+    <text x="55" y="126">FRONTEND</text>
+    <text x="245" y="126">API</text>
+    <text x="380" y="126">BACKEND</text>
+    <text x="535" y="126">DATABASE</text>
+    <text x="735" y="126">AI / LLM</text>
   </g>
 
   <g fill="#58A6FF">
-    <circle cx="120" cy="210" r="5"/>
-    <circle cx="230" cy="210" r="5"/>
-    <circle cx="338" cy="210" r="5"/>
-    <circle cx="450" cy="130" r="5"/>
-    <circle cx="450" cy="290" r="5"/>
-    <circle cx="560" cy="210" r="5"/>
-    <circle cx="680" cy="130" r="5"/>
-    <circle cx="680" cy="290" r="5"/>
-    <circle cx="790" cy="210" r="5"/>
-    <circle cx="900" cy="130" r="5"/>
-    <circle cx="900" cy="290" r="5"/>
-    <circle cx="1020" cy="210" r="5"/>
+    <circle cx="110" cy="120" r="5"/>
+    <circle cx="220" cy="120" r="5"/>
+    <circle cx="360" cy="120" r="5"/>
+    <circle cx="500" cy="120" r="5"/>
+    <circle cx="640" cy="120" r="5"/>
+    <circle cx="780" cy="120" r="5"/>
+    <circle cx="560" cy="70" r="5"/>
+    <circle cx="560" cy="170" r="5"/>
   </g>
 
-  <g fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.8">
-    <text x="30" y="215">USER</text>
-    <text x="238" y="214">APP</text>
-    <text x="494" y="214">API</text>
-    <text x="612" y="214">BACKEND</text>
-    <text x="828" y="214">DATA</text>
-    <text x="1046" y="214">AI</text>
-  </g>
-
-  <g fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2">
-    <text x="335" y="112">React</text>
-    <text x="335" y="314">UI</text>
-    <text x="568" y="112">Node / Express</text>
-    <text x="568" y="314">Services</text>
-    <text x="872" y="112">SQL / NoSQL</text>
-    <text x="872" y="314">Data</text>
-    <text x="1030" y="112">Gemini / LLM</text>
-    <text x="1028" y="314">RAG / AI</text>
+  <g fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.6">
+    <text x="548" y="58">AI</text>
+    <text x="548" y="183">DATA</text>
   </g>
 </svg>

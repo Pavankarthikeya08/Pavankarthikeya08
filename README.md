@@ -1,51 +1,51 @@
-# PAVAN KARTHIKEYA
-
-<div align="center" style="padding: 12px 0 8px; color: #f0f6fc;">
-  <div style="display:inline-block; padding: 7px 12px; border: 1px solid #30363d; border-radius: 999px; background: rgba(88,166,255,0.08); color: #58a6ff; letter-spacing: 0.2em; font-size: 10px; font-weight: 700;">FULL-STACK DEVELOPER</div>
-  <p style="margin: 16px 0 6px; font-size: 24px; line-height: 1.2; letter-spacing: 0.12em; color: #f0f6fc; font-weight: 700;">BACKEND · SYSTEM DESIGN · AI</p>
-  <p style="margin: 0 0 10px; color: #8b949e;">Building reliable applications and exploring intelligent systems.</p>
-  <p>
-    <a href="https://github.com/Pavankarthikeya08" style="color: #58a6ff;">GitHub</a> ·
-    <a href="https://linkedin.com/in/rt-pavan-karthikeya" style="color: #58a6ff;">LinkedIn</a> ·
-    <a href="mailto:rtpavankarthikeya@gmail.com" style="color: #58a6ff;">Email</a>
-  </p>
-</div>
-
-<img src="assets/divider.svg" alt="section divider" width="100%">
-
 ## ABOUT
 
-Full-stack developer focused on building complete applications across React, Node.js, APIs, and databases. Interested in backend architecture and practical AI systems, especially LLM applications, RAG, and agentic workflows. Currently going deeper into system design and scalable backend engineering.
+Full-stack developer building complete products across backend, APIs, and data systems. Interested in scalable architecture, backend engineering, and practical AI workflows with LLMs and RAG.
 
 ## CURRENTLY LEARNING
 
-- System Design: architecture, APIs, scalability
-- AI Applications: LLMs, RAG, agentic workflows
-- Backend Engineering: Node.js, Express, databases
-- Core CS: DSA, DBMS, problem-solving
+- System design and API architecture
+- LLM apps, RAG, and agent workflows
+- Backend engineering with Node.js and databases
+- Core engineering fundamentals
 
-## SELECTED PROJECTS
+## PROJECTS
 
-- QueryAI — AI-powered natural-language database assistant with dashboards and query generation
-- Vexa — MERN project-management platform for tasks, RBAC, milestones, and workflows
-- AnyShare — secure file-sharing app for uploads, sharing, and cloud-based delivery
+- QueryAI — Natural-language database assistant with dashboards and query generation. Technologies: React, Node.js, Express, SQLite, MySQL, Gemini.
+- Vexa — Project-management platform with tasks, RBAC, milestones, and workflows. Technologies: React, Node.js, Express, MongoDB.
+- AnyShare — Secure file-sharing app with uploads, sharing, and delivery. Technologies: Node.js, Express, MongoDB, Cloudinary, Multer.
 
 ## TECH STACK
 
 ### LANGUAGES
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" alt="Programming languages" width="320" height="32" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" alt="Programming languages" width="320" height="32" />
+</p>
 
 ### FRONTEND
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui" alt="Frontend technologies" width="420" height="32" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui" alt="Frontend technologies" width="430" height="32" />
+</p>
 
 ### BACKEND
-<img src="https://skillicons.dev/icons?i=nodejs,express,postman" alt="Backend technologies" width="250" height="32" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postman" alt="Backend technologies" width="250" height="32" />
+</p>
 
-### DATA
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,oracle" alt="Database technologies" width="300" height="32" />
+### DATABASES
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,oracle" alt="Database technologies" width="320" height="32" />
+</p>
+
+### AI / GENAI
+<p align="center" style="margin: 0; color: #8b949e; letter-spacing: 0.08em; font-size: 12px;">LLM APPLICATIONS · RAG · PROMPT ENGINEERING · AGENTIC AI</p>
 
 ### TOOLS
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="Tools and cloud technologies" width="260" height="32" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="Tools and cloud technologies" width="260" height="32" />
+</p>
+
+<img src="./assets/architecture.svg" alt="System architecture diagram" width="900" height="220" style="display:block; margin: 22px auto 0;" />
 
 ## CONNECT
 
